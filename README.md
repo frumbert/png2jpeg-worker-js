@@ -7,7 +7,7 @@ So I mated a jpg compressor with a png loader and came up with this worker.
 
 Relies on these libraries:
 
-* https://github.com/frumbert/png2jpeg-worker-js
+* https://github.com/kentmw/jpeg-web-worker
 * https://github.com/devongovett/png.js
 
 It's a worker, so use it like this:
